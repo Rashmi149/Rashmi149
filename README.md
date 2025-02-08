@@ -16,7 +16,6 @@
 💡 **Who am I?**  
 🎀 **From:** Ayodhya, India  
 🎀 **Tech Enthusiast:** Slayin’ in **C++**, **Java**, and **UI/UX** 🔥  
-🎀 **Coding Queen 👑:** Obsessed with **DSA, OOPs, and Frontend Magic** ✨  
 🎀 **Creative Baddie:** Designs that speak & code that shines 💅💻  
 
 ---
