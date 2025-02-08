@@ -6,7 +6,7 @@
 
 <p align="center">
   🚀 <strong>Coding | UI/UX | Problem-Solving</strong> 💻 <br>
-  🎀 <strong>Tech Queen 👑 | Designing Diva 🎨 | Time-Management Pro ⏳</strong>
+  🎀 <strong>Techi! | Designing Diva 🎨 | Time-Management Pro ⏳</strong>
 </p>
 
 ---
