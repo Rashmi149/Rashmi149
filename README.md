@@ -46,7 +46,7 @@
 
 🌸 **My Flower Shop** – Aesthetic **website** built with HTML & CSS.  
 🕶️ **Next Gen** – **UI/UX project** on Virtual Reality.  
-🎠 **Corosal** – Another **UI/UX project** (Vibes overloaded!).  
+🎠 **Carousel** – Another **UI/UX project** (Vibes overloaded!).  
 
 ---
 
